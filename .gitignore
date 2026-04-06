@@ -40,6 +40,9 @@ yarn-error.log*
 .firebase/
 .firebaserc
 
+# claude
+.claude/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
